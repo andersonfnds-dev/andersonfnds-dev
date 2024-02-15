@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Anderson Fernandes!</h1>
 <h3 align="center">I’m a full stack developer from Brasília - Brazil.</h3>
 
-- 🔭 I’m currently working as a Apex Developer/Salesforce Consultant at [BRF Consulting](https://www.linkedin.com/company/brfconsulting/), A Salesforce Consulting Company.
+- 🔭 I’m currently working as a Apex Developer/Salesforce Consultant at [BRF Consulting](https://www.linkedin.com/company/brfconsulting/), a Salesforce Consulting Company.
 
 - 🌱 I’m currently learning **more about the Salesforce Ecosystem, specially about the Apex Language**, since it's the main tool I'm currently working with it. I'm also **improving my Java skills, learning more about the Spring Ecosystem.** I consider **Java my main and favorite language!**. Beside that, I'm also starting to study for a **AWS Cloud Practioner certification soon**, and also **improving my English writing and speaking skills everyday**. **I already have a good level of English, since I'm working for a International Company, but I would like to get a English Certification in a close future**.
 
