@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonfnds-dev&show_icons=true&theme=dark&locale=en" alt="andersonfnds-dev" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonfnds-dev&theme=dark" alt="andersonfnds-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonfnds-dev&theme=dark" alt="andersonfnds-dev" /></p>
