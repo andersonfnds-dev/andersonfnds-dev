@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Anderson Fernandes!</h1>
 <h3 align="center">I’m a full stack developer from Brasília - Brazil.</h3>
 
-- 🔭 I’m currently working at [BRF Consulting, A Salesforce Consulting Company](https://www.linkedin.com/company/brfconsulting/)
+- 🔭 I’m currently working as a Apex Developer/Salesforce Consultant at [BRF Consulting, A Salesforce Consulting Company](https://www.linkedin.com/company/brfconsulting/)
 
 - 🌱 I’m currently learning **more about the Salesforce Ecosystem, specially about the Apex Language, since it's the main tool I'm currently working with it.**
 
