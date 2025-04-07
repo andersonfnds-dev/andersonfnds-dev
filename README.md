@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **more about the Salesforce Ecosystem, specially about the Apex Language**, since it's the main tool I'm currently working with it. I'm also **improving my Java skills, learning more about the Spring Ecosystem.** I consider **Java my main and favorite language!**. Other than that, I'm also starting to study for a **AWS Cloud Practioner certification soon**, and also **improving my English writing and speaking skills everyday**. **I already have a good level of English, since I'm working for a International Company, but I would like to get a English Certification in a close future**.
 
-- 👯 I’m looking to collaborate on **Java, PHP and Salesforce projects. I'll be happy to help and trade informations and experience about those languages!**
+- 👯 I’m looking to collaborate on **Java, PHP, Salesforce and SnowFlake projects. I'll be happy to help and trade informations and experience about those languages!**
 
 - 👨‍💻 All of my projects are available here, in my GitHub [https://github.com/andersonfnds-dev](https://github.com/andersonfnds-dev)
 
